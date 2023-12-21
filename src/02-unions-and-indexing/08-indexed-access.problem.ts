@@ -1,5 +1,3 @@
-import { fakeDataDefaults } from "./08-indexed-access.solution";
-import { fakeDataDefaults } from "./08-indexed-access.problem";
 import { Equal, Expect } from "../helpers/type-utils";
 
 export const fakeDataDefaults = {
